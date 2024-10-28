@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Oct 2024 19:59:58 at s/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Seyon
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://seyon.app/index.html -O1 "D:\new_scrap" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mSeyonain sensitive information,Seyon
+SeyonSeyon
+	such as username/password authentication for websiSeyonrored in this projectSeyon
+SeyonSeyon
+	do not share these files/folders if you want these information to remain private
+
+
+
+20:03:45	Error: 	"Not Found" (404) at link https://seyon.app/index1.html (from https://seyon.app/index.html)
+
+20:03:45	Error: 	"Not Found" (404) at link https://seyon.app/assets/css/owl.video.play.png (from https://seyon.app/assets/css/owl.carousel.min.css)
+
+20:03:45	Error: 	"Not Found" (404) at link https://seyon.app/assets/css/<path-to-image (from https://seyon.app/assets/css/main.css)
+
+20:03:45	Error: 	"Not Found" (404) at link https://seyon.app/assets/img/others/hero2-review.png (from https://seyon.app/index6.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 47 seconds : 497 links scanned, 492 files written (35744196 bytes overall) [27301225 bytes received at 120269 bytes/sec], 12185272 bytes transferred using HTTP compression in 134 files, ratio 28%
+
+(4 errors, 0 warnings, 0 messages)
+
